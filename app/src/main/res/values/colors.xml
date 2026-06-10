@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Homeschooling Palette -->
+    <color name="primary">#673AB7</color>
+    <color name="primary_dark">#512DA8</color>
+    <color name="accent">#009688</color>
+
+    <color name="background_light">#F8F9FA</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <color name="text_main">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <color name="success">#4CAF50</color>
+    <color name="error">#E91E63</color>
+    <color name="warning">#FF9800</color>
+
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
